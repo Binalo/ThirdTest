@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<congty>
+  <nhanvien manv="NV05">
+    <hoten>Nguyễn Văn Diễn</hoten>
+    <luong>300</luong>
+    <phongban>
+      <tenphong>Tài Chính</tenphong>
+      <dienthoai>0932222</dienthoai>
+    </phongban>
+  </nhanvien>
+  <nhanvien manv="NV01">
+    <hoten>Võ Trần Nhật Bình</hoten>
+    <luong>400</luong>
+    <phongban>
+      <tenphong>Hành chính-Nhân sự</tenphong>
+      <dienthoai>09322xxx</dienthoai>
+    </phongban>
+  </nhanvien>
+  <nhanvien manv="NV03">
+    <hoten>Nguyễn Hoàng Anh</hoten>
+    <luong>500</luong>
+    <phongban>
+      <tenphong>Giám đốc điều hành</tenphong>
+      <dienthoai>0202020</dienthoai>
+    </phongban>
+  </nhanvien>
+</congty>

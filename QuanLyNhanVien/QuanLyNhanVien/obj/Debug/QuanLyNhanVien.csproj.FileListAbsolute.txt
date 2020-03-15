@@ -1,0 +1,18 @@
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form1.resources
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.Cache
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\STUDY\XML\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Form1.resources
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+C:\Users\ADMIN\Desktop\Train C#\QuanLyNhanVien\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
